@@ -1,0 +1,15 @@
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\bin\Debug\net8.0\ExtendString.exe
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\bin\Debug\net8.0\ExtendString.deps.json
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\bin\Debug\net8.0\ExtendString.runtimeconfig.json
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\bin\Debug\net8.0\ExtendString.dll
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\bin\Debug\net8.0\ExtendString.pdb
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.AssemblyInfoInputs.cache
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.AssemblyInfo.cs
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.csproj.CoreCompileInputs.cache
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.sourcelink.json
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.dll
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\refint\ExtendString.dll
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.pdb
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ExtendString.genruntimeconfig.cache
+C:\Users\Dinis\Documents\LP2\LP2Aula08\ExtendString\obj\Debug\net8.0\ref\ExtendString.dll
